@@ -1,0 +1,35 @@
+---- Order no. 07 ----
+Client: luca [id: 6]
+Products: Gluten-Free Orange Almond Coconut Muffins 
+Total price: 62€
+Date: 18-05-2022 (15:21:10)
+----- THANK YOU! -----
+
+---- Order no. 01 ----
+Client: tomi [id: 4]
+Products: Berry-Yogurt Smoothie , Sautéed Chicken Breasts With Country Ham and Sage Sauce , Hazelnut Meringues with Lemon Cream and Blood Orange Syrup 
+Total price: 128€
+Date: 18-05-2022 (15:47:30)
+----- THANK YOU! -----
+
+---- Order no. 02 ----
+Client: luca [id: 1]
+Products: Sweet and Sour Pickles , Sashimi Salad with Soy and Orange , Sautéed Chicken Breasts With Country Ham and Sage Sauce , Swordfish with Lime-Ginger Glaze 
+Total price: 156€
+Date: 18-05-2022 (15:49:30)
+----- THANK YOU! -----
+
+---- Order no. 03 ----
+Client: abc [id: 6]
+Products: Basmati Rice with Summer Vegetable Salad , Sautéed Chicken Breasts With Country Ham and Sage Sauce , Cherry-Chocolate Shortcakes with Kirsch Whipped Cream , Cauliflower Soup with Almonds , Lobster with Roasted Garlic-Potato Salad and Coleslaw 
+Total price: 289€
+Date: 22-05-2022 (13:03:06)
+----- THANK YOU! -----
+
+-- Order no. 04 --
+Client: johnny [id: 12]
+Products: Vanilla Custard Sauce , Baked Pork Ribs with Hoisin Barbecue Sauce , Sautéed Chicken Breasts With Country Ham and Sage Sauce , Foie-Gras, Grilled Pork Sausages with Spiced Figs 
+Total price: 366€
+Date: 22-05-2022 (19:01:58)
+--- THANK YOU! ---
+
